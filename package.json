@@ -27,7 +27,7 @@
   "private": true,
   "dependencies": {
     "@headlessui/react": "^1.7.15",
-    "@ory/client": "^1.1.7",
+    "@ory/client": "^1.5.2",
     "@ory/integrations": "^1.1.0",
     "@radix-ui/react-popover": "^1.0.7",
     "@radix-ui/react-slot": "^1.0.2",
@@ -35,7 +35,7 @@
     "@remix-run/cloudflare-pages": "^2.0.0",
     "@remix-run/react": "^2.0.0",
     "@vespaiach/axios-fetch-adapter": "^0.3.1",
-    "axios": "0.27.2",
+    "axios": "1.6.4",
     "class-variance-authority": "^0.7.0",
     "cookie": "^0.5.0",
     "cookie-store-interface": "0.1.1",
