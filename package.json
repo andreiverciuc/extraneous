@@ -35,7 +35,7 @@
     "@remix-run/cloudflare-pages": "^2.0.0",
     "@remix-run/react": "^2.0.0",
     "@vespaiach/axios-fetch-adapter": "^0.3.1",
-    "axios": "0.27.2",
+    "axios": "1.6.8",
     "class-variance-authority": "^0.7.0",
     "cookie": "^0.5.0",
     "cookie-store-interface": "0.1.1",
@@ -58,7 +58,7 @@
     "trackjs": "^3.10.1",
     "tslib": "^2.3.0",
     "uuid": "^9.0.0",
-    "wrangler": "^3.0.0",
+    "wrangler": "^3.78.3",
     "zod": "^3.19.1"
   },
   "devDependencies": {
