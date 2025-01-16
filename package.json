@@ -31,7 +31,7 @@
     "@ory/integrations": "^1.1.0",
     "@radix-ui/react-popover": "^1.0.7",
     "@radix-ui/react-slot": "^1.0.2",
-    "@remix-run/cloudflare": "^2.0.0",
+    "@remix-run/cloudflare": "^2.15.2",
     "@remix-run/cloudflare-pages": "^2.0.0",
     "@remix-run/react": "^2.0.0",
     "@vespaiach/axios-fetch-adapter": "^0.3.1",
