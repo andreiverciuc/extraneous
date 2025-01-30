@@ -40,7 +40,7 @@
     "cookie": "^0.5.0",
     "cookie-store-interface": "0.1.1",
     "fast-safe-stringify": "^2.1.1",
-    "i18next": "^23.4.3",
+    "i18next": "^23.16.8",
     "i18next-browser-languagedetector": "^7.1.0",
     "i18next-http-backend": "^2.2.1",
     "isbot": "^3.6.13",
